@@ -1,7 +1,7 @@
 /*
  * CS:APP Data Lab
  *
- * <Nicolas Andres Diaz - diaznicolasandres1>
+ * <Andres Nunez Richardson - andyfire9>
  *
  * bits.c - Source file with your solutions to the Lab.
  *          This is the file you will hand in to your instructor.
